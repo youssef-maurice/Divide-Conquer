@@ -1,7 +1,7 @@
 import java.math.BigInteger;
 import java.util.ArrayList;
 
-public class A2_Q4 {
+public class Div_con {
 
     //method that produces the nth fibonacci number
     //(copied from lecture slides with some modifications)
